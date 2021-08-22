@@ -1,0 +1,15 @@
+include: package:flutter_lints/flutter.yaml
+linter:
+  rules:
+    omit_local_variable_types: false
+    unawaited_futures: false
+    empty_catches: false
+    prefer_single_quotes: false
+    file_names: false
+    unnecessary_string_interpolations: false
+    use_key_in_widget_constructors: false
+    avoid_function_literals_in_foreach_calls: false
+    sized_box_for_whitespace: false
+    avoid_renaming_method_parameters: false
+    constant_identifier_names: false
+    avoid_print: false
